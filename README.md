@@ -1,0 +1,2 @@
+# Django-Full-stack-application-for-Student-Portal
+The Student Portal is a web application that helps students organize their studies. The app includes several features that assist students in creating, storing, and managing notes, homework, and to-do lists, as well as searching for educational resources on Wikipedia, YouTube, and Books. The Python Django framework was used to create the application.
